@@ -9,7 +9,7 @@ npm run dev
 
 ให้นักศึกษาสร้างหน้าเว็บ Users Generator โดยใช้ความรู้เรื่อง localStorage และ useEffect hook ของ React
 
-[คลิกเพื่อดูรายละเอียด]()
+[คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EVOMp0igSw9HkNXMdG1ViOoBzr-zPBB1-Y1N0vwaa6-XSA?e=CfmQyt)
 
 หลังจาก Deploy ด้วย Vercel แล้ว ให้แปะลิงค์ Deploy และลิงค์ GitHub Repo ของน.ศ. ไว้ใน Spreadsheet ด้านล่าง
 
