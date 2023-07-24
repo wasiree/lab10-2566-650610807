@@ -13,4 +13,4 @@ npm run dev
 
 หลังจาก Deploy ด้วย Vercel แล้ว ให้แปะลิงค์ Deploy และลิงค์ GitHub Repo ของน.ศ. ไว้ใน Spreadsheet ด้านล่าง
 
-[คลิกเพื่อเปิด Spreadsheet]()
+[คลิกเพื่อเปิด Spreadsheet](https://o365cmu-my.sharepoint.com/:x:/g/personal/chayanin_s_cmu_ac_th1/EY1OD2M8a5JFmX-ETsh8mFgBzNQRTP7A4htPlsyc4yjb6Q?e=S0SRiR)
