@@ -7,7 +7,7 @@ npm install
 npm run dev
 ```
 
-ให้นักศึกษาสร้างหน้าเว็บ Users Generator โดยใช้ความรู้เรื่อง localStorage และการ useEffect hook ของ React
+ให้นักศึกษาสร้างหน้าเว็บ Users Generator โดยใช้ความรู้เรื่อง localStorage และ useEffect hook ของ React
 
 [คลิกเพื่อดูรายละเอียด]()
 
